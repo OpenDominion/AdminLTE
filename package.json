@@ -1,10 +1,10 @@
 {
-  "name": "admin-lte",
-  "version": "v2.4.18",
+  "name": "@opendominion/admin-lte",
+  "version": "2.4.18",
   "main": "dist/js/adminlte.min.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ColorlibHQ/AdminLTE.git"
+    "url": "git://github.com/OpenDominion/AdminLTE.git"
   },
   "license": "MIT",
   "devDependencies": {
@@ -41,7 +41,6 @@
     "fastclick": "^1.0.6",
     "flot": "^0.8.3",
     "font-awesome": "^4.7",
-    "fullcalendar": "^3.10",
     "inputmask": "^3.3.7",
     "ion-rangeslider": "^2.3",
     "ionicons": "^3",
@@ -56,5 +55,14 @@
     "raphael": "^2.2.7",
     "select2": "^4.0.3",
     "slimscroll": "^0.9.1"
-  }
+  },
+  "description": "Introduction ============",
+  "bugs": {
+    "url": "https://github.com/OpenDominion/AdminLTE/issues"
+  },
+  "homepage": "https://github.com/OpenDominion/AdminLTE#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
 }
